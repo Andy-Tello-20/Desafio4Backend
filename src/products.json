@@ -1,0 +1,56 @@
+[
+	{
+		"id": 12,
+		"title": "sillón",
+		"description": "con reposapiés",
+		"price": 7000,
+		"thumbnail": "img12",
+		"code": 7890,
+		"stock": 6
+	},
+	{
+		"id": 14,
+		"title": "lámpara de techo",
+		"description": "moderna",
+		"price": 2500,
+		"thumbnail": "img14",
+		"code": 2109,
+		"stock": 8
+	},
+	{
+		"id": 15,
+		"title": "silla de oficina",
+		"description": "ergonómica",
+		"price": 4000,
+		"thumbnail": "img15",
+		"code": 8769,
+		"stock": 5
+	},
+	{
+		"id": 16,
+		"title": "perchero",
+		"description": "de pie",
+		"price": 1500,
+		"thumbnail": "img16",
+		"code": 5432,
+		"stock": 12
+	},
+	{
+		"id": 17,
+		"title": "mesa auxiliar",
+		"description": "plegable",
+		"price": 2000,
+		"thumbnail": "img17",
+		"code": 9871,
+		"stock": 7
+	},
+	{
+		"id": 18,
+		"title": "cómoda",
+		"description": "con espejo",
+		"price": 6000,
+		"thumbnail": "img18",
+		"code": 6541,
+		"stock": 4
+	}
+]

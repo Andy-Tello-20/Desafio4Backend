@@ -1,0 +1,32 @@
+
+
+<div class="contenedor-lista-">
+    <div class="titulos">
+        <p>ID</p>
+        <p>TITLE</p>
+        <p>description</p>
+        <p>Precio</p>
+        <p>img</p>
+        <p>code</p>
+        <p>stock</p>
+    </div>
+
+    <div class="contenedor-items">
+
+        {{#each listaProductos}}
+
+
+        <div class="contenedor-producto">
+            <span> Nro:{{id}}</span>
+            <h2>{{title}}</h2>
+            <span>{{description}}</span>
+            <p>${{price}}</p>
+            <span>{{thumbnail}}</span>
+            <p>{{code}}</p>
+            <p>{{stock}}</p>
+        </div>
+        <hr>
+
+        {{/each}}
+    </div>
+</div>
